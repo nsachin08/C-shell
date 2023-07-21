@@ -1,4 +1,4 @@
-# Lab 4
+# C-shell
 
 **Interactive Linux shell with signal handling capability.**<br/>
 
